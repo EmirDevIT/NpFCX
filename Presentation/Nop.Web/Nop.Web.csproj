@@ -1656,10 +1656,13 @@
     <Content Include="Scripts\kendo\2014.1.318\kendo.autocomplete.min.js.map" />
     <Content Include="Scripts\kendo\2014.1.318\jquery.min.map" />
     <None Include="Scripts\_references.js" />
+    <Content Include="Themes\DefaultClean\Content\css\bootstrap.css" />
+    <Content Include="Themes\DefaultClean\Content\css\bootstrap.min.css" />
     <Content Include="Themes\DefaultClean\Content\css\ie8.css" />
     <Content Include="Themes\DefaultClean\Content\css\styles.css" />
     <Content Include="Themes\DefaultClean\Content\css\styles.rtl.css" />
     <Content Include="Themes\DefaultClean\Content\images\ajax-loader-small.gif" />
+    <Content Include="Themes\DefaultClean\Content\images\animated-overlay.gif" />
     <Content Include="Themes\DefaultClean\Content\images\back-button.png" />
     <Content Include="Themes\DefaultClean\Content\images\calendar-next.png" />
     <Content Include="Themes\DefaultClean\Content\images\calendar-prev.png" />
@@ -1699,10 +1702,24 @@
     <Content Include="Themes\DefaultClean\Content\images\topic-type1.png" />
     <Content Include="Themes\DefaultClean\Content\images\topic-type2.png" />
     <Content Include="Themes\DefaultClean\Content\images\topic-type3.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-icons_222222_256x240.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-icons_454545_256x240.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-icons_888888_256x240.png" />
+    <Content Include="Themes\DefaultClean\Content\images\ui-icons_cd0a0a_256x240.png" />
     <Content Include="Themes\DefaultClean\Content\images\view-grid.png" />
     <Content Include="Themes\DefaultClean\Content\images\view-list.png" />
     <Content Include="Themes\DefaultClean\Content\images\watch.png" />
     <Content Include="Themes\DefaultClean\Content\images\wishlist-button.png" />
+    <Content Include="Themes\DefaultClean\Content\js\bootstrap.min.js" />
     <Content Include="Themes\DefaultClean\preview.jpg" />
     <Content Include="Content\Images\default-avatar.jpg" />
     <Content Include="Content\Images\flags\ad.png" />
@@ -2030,6 +2047,9 @@
     <Content Include="Views\Catalog\_CatalogSelectors.cshtml" />
     <Content Include="Views\Vendor\ApplyVendor.cshtml" />
     <Content Include="Views\Product\_Discontinued.cshtml" />
+    <Content Include="Themes\DefaultClean\Views\Topic\TopicBlock.cshtml" />
+    <Content Include="Themes\DefaultClean\Views\Topic\TopicDetails.cshtml" />
+    <Content Include="Themes\DefaultClean\Views\Topic\ServiceTemplate.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Content\Roxy_Fileman\tmp\" />
@@ -2243,11 +2263,11 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>False</UseIIS>
+          <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>15536</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:2451/</IISUrl>
+          <IISUrl>http://localhost:15542/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
