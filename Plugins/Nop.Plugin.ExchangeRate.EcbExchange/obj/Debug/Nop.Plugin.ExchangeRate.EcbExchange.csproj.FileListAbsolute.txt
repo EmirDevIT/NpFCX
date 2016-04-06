@@ -1,0 +1,16 @@
+D:\SourceTree\EmireDevIt(NPFCX)\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+D:\SourceTree\EmireDevIt(NPFCX)\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+D:\SourceTree\EmireDevIt(NPFCX)\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+D:\SourceTree\EmireDevIt(NPFCX)\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\SourceTree\EmireDevIt(NPFCX)\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+D:\SourceTree\EmireDevIt(NPFCX)\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
+D:\SourceTree\EmireDevIt(NPFCX)\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\SourceTree\EmireDevIt(NPFCX)\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+D:\SourceTree\EmireDevIt\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+D:\SourceTree\EmireDevIt\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+D:\SourceTree\EmireDevIt\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+D:\SourceTree\EmireDevIt\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\SourceTree\EmireDevIt\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+D:\SourceTree\EmireDevIt\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
+D:\SourceTree\EmireDevIt\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\SourceTree\EmireDevIt\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb
