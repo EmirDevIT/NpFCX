@@ -408,6 +408,7 @@
     <Compile Include="Validators\Common\ContactUsValidator.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\Db_Script\Insert_Topic_Template.sql" />
     <Content Include="App_Data\Install\create_required_data.sql" />
     <Content Include="App_Data\Install\create_sample_data.sql" />
     <Content Include="App_Data\Localization\Installation\installation.ar.xml" />
@@ -1656,8 +1657,6 @@
     <Content Include="Scripts\kendo\2014.1.318\kendo.autocomplete.min.js.map" />
     <Content Include="Scripts\kendo\2014.1.318\jquery.min.map" />
     <None Include="Scripts\_references.js" />
-    <Content Include="Themes\DefaultClean\Content\css\bootstrap.css" />
-    <Content Include="Themes\DefaultClean\Content\css\bootstrap.min.css" />
     <Content Include="Themes\DefaultClean\Content\css\ie8.css" />
     <Content Include="Themes\DefaultClean\Content\css\styles.css" />
     <Content Include="Themes\DefaultClean\Content\css\styles.rtl.css" />
@@ -1720,6 +1719,9 @@
     <Content Include="Themes\DefaultClean\Content\images\watch.png" />
     <Content Include="Themes\DefaultClean\Content\images\wishlist-button.png" />
     <Content Include="Themes\DefaultClean\Content\js\bootstrap.min.js" />
+    <Content Include="Themes\DefaultClean\Content\ServiceTemplateCss\bootstrap.css" />
+    <Content Include="Themes\DefaultClean\Content\ServiceTemplateCss\bootstrap.min.css" />
+    <Content Include="Themes\DefaultClean\Content\ServiceTemplateCss\ServiceTopic.css" />
     <Content Include="Themes\DefaultClean\preview.jpg" />
     <Content Include="Content\Images\default-avatar.jpg" />
     <Content Include="Content\Images\flags\ad.png" />
