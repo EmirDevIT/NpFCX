@@ -490,6 +490,7 @@
     <Content Include="Content\files\ExportImport\Index.htm" />
     <Content Include="Content\files\Index.htm" />
     <Content Include="Content\Images\default-image.png" />
+    <Content Include="Content\js\bootstrap.min.js" />
     <Content Include="Content\kendo\2014.1.318\Black\editor.png" />
     <Content Include="Content\kendo\2014.1.318\Black\imagebrowser.png" />
     <Content Include="Content\kendo\2014.1.318\Black\indeterminate.gif" />
@@ -1005,6 +1006,9 @@
     <Content Include="Content\samples\product_TabletCover.jpeg" />
     <Content Include="Content\samples\product_Windows8.jpeg" />
     <Content Include="Content\samples\product_WomenTShirt.jpg" />
+    <Content Include="Content\ServiceTemplateCss\bootstrap.css" />
+    <Content Include="Content\ServiceTemplateCss\bootstrap.min.css" />
+    <Content Include="Content\ServiceTemplateCss\ServiceTopic.css" />
     <Content Include="Content\tinymce\license.txt" />
     <Content Include="Content\tinymce\plugins\advlist\plugin.min.js" />
     <Content Include="Content\tinymce\plugins\anchor\plugin.min.js" />
