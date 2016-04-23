@@ -4,3 +4,98 @@
 .container .ul-tabs li a {
     text-decoration:none !important;
 }
+
+
+/* CSS for SHOP TIME TABLE topic page */
+.shop-time-table-outer{
+    width:40%;
+    border:1px solid #cacaca;
+    background-color:#F4F5F5;
+    float:left;
+}
+.shop-time-table-outer li{
+   list-style:none;
+}
+.shop-time-table-headers-outer{
+    width:100%;
+}
+.shop-time-table-headers-outer h2{
+    width:100%;
+    text-align:center;
+    background-color: #11b0ec;
+    color: #ffffff;
+    font-size: 16px;
+    margin: 0;
+    padding: 6px 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+.shop-time-table-headers-inner{
+    width:100%;
+}
+.shop-time-table-headers-inner ul{
+   background-color: #cacaca;
+    font-size: 13px;
+    height: 32px;
+    padding: 4px 25px;
+    width: 100%;
+    margin:0;
+}
+
+.shop-time-table-headers-inner ul .heading-day
+{
+    width:14.2%;
+    float:left;
+    text-align:center;
+    border-right: 1px solid #868181;
+}
+.shop-time-table-headers-inner ul .heading-day label
+{
+   margin-bottom:0;
+   cursor:pointer;
+}
+.shop-time-table-headers-inner ul .heading-day:last-child
+{
+    border:0 none;
+}
+.shop-informations{
+    width:100%;
+    margin-top:5px;
+}
+.shop-informations .listDate{
+    text-align:center;
+    padding:2px;
+}
+
+.shop-informations .listDate a{
+  color:#000000;
+  text-decoration:none;
+}
+.shop-informations .listDate a:hover{
+  text-decoration:underline;
+}
+.active-day{
+    color:#11B0EC !important;
+    font-weight:600;
+}
+
+.shop-time-table-map-outer
+{
+    width:382px;
+    border:1px solid #cacaca;
+    background-color:#F4F5F5;
+    float:left;
+    margin-left:10px;
+}
+
+.shop-time-table-map-outer h2{
+    width:100%;
+    text-align:center;
+    background-color: #11b0ec;
+    color: #ffffff;
+    font-size: 16px;
+    margin: 0;
+    padding: 6px 0;
+    text-align: center;
+    text-transform: uppercase;
+}
